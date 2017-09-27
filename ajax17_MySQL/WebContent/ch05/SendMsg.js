@@ -1,0 +1,1 @@
+alert("由SendMsg.js發出的訊息");
