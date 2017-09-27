@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import ajax17._01.model.TimeReportBean;
-//test
+//test2
 @WebServlet("/_01/TimeReport")
 public class TimeReportServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
